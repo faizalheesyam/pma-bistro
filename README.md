@@ -1,13 +1,13 @@
 pma-bistro
 ==========
 
-> Im tired of PMA default theme, im giving it a facelift. Here's my version. 
-
-This theme is based on `pmahomme` (default theme in phpMyAdmin).
-Development began on `phpMyAdmin 4.0.9`
+> Just an attempt to give PMA a new look. (or at least something that suite my taste)
 
 ![Bistro](http://github.com/faizalheesyam/pma-bistro/blob/master/screenshot.png?raw=true)
 
-Hope you like it and help make it better, thanks!
+* This theme is based on `pmahomme` (default theme in phpMyAdmin).
+* Currently this build is only for `phpMyAdmin 4.0.9`
 
-P/S: this is a work in progress, updates only happen from time to time.
+To install, simply `clone` this project into your `phpMyAdmin/themes/*`
+
+This is a work in progress, hope you can help make it better, thanks!
