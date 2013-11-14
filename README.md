@@ -6,7 +6,7 @@ pma-bistro
 This theme is based on `pmahomme` (default theme in phpMyAdmin).
 Development began on `phpMyAdmin 4.0.9`
 
-![Bistro](/path/to/img.jpg)
+![Bistro](https://github.com/faizalheesyam/pma-bistro/blob/master/screenshot.png)
 
 Hope you like it and help make it better, thanks!
 
